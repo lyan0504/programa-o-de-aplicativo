@@ -12,3 +12,18 @@ C:\Users\vboxuser\Desktop\introducaodotnet\introducaocsharp\obj\Debug\net8.0\ref
 C:\Users\vboxuser\Desktop\introducaodotnet\introducaocsharp\obj\Debug\net8.0\introducaocsharp.pdb
 C:\Users\vboxuser\Desktop\introducaodotnet\introducaocsharp\obj\Debug\net8.0\introducaocsharp.genruntimeconfig.cache
 C:\Users\vboxuser\Desktop\introducaodotnet\introducaocsharp\obj\Debug\net8.0\ref\introducaocsharp.dll
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\bin\Debug\net8.0\introducaocsharp.exe
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\bin\Debug\net8.0\introducaocsharp.deps.json
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\bin\Debug\net8.0\introducaocsharp.runtimeconfig.json
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\bin\Debug\net8.0\introducaocsharp.dll
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\bin\Debug\net8.0\introducaocsharp.pdb
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.sourcelink.json
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.dll
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\refint\introducaocsharp.dll
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.pdb
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\introducaocsharp.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\Nova pasta\programa-o-de-aplicativo\introducaocsharp\obj\Debug\net8.0\ref\introducaocsharp.dll
